@@ -14,4 +14,5 @@ if ($status) {
 } else {
     echo "Status: Tidak Aktif";
 }
+
 ?>
